@@ -1,0 +1,10 @@
+EuroSAT Sentinel-2 RGB Classification
+Model: Custom CNN
+Classes: 10
+Training images: 18,900
+Validation images: 4,050
+Test images: 4,050
+Best validation accuracy: 80.0%
+Test accuracy: 80.94%
+Macro F1-score: 0.801
+Highway misclassified as River: 62
